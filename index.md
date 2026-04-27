@@ -3,6 +3,8 @@
 
 I am a computer science major at CSUF and I am graduating student and plan to graduate in 2027
 
+[My GitHub Profile](https://github.com/sieuca0)
+
 ## Favorite CPSC 120L Labs
 
 - Lab 1 
